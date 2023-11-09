@@ -1,5 +1,5 @@
-# Precise
-Precise is a Web-Based 3D visualization and editing application for surgical simulation of tumor resection.
+# Leo 3D Anatomy
+Leo 3D Anatomy is a Web-Based 3D visualization and editing application for surgical simulation of tumor resection.
 
 The authors wish to acknowledge the Tuscany Region (Italy) for co-funding the PRECISE project (BANDO RICERCA SALUTE 2018), which originated and made possible this research.
 
@@ -33,7 +33,7 @@ The authors wish to acknowledge the Tuscany Region (Italy) for co-funding the PR
 </details>
 
 ## About the project
-The Precise application is part of the [Precise Project](https://www.preciseproject.it/). The idea originating the PRECISE project comes from the urgent need of researching, innovate, integrate and validate existing and novel 3D technologies in a new objective unified framework for enabling in the current clinical practice, patient-specific methods and tools for the training, the simulation, the intervention and the follow-up of personalized surgical approaches. Such technologies include CAD, Reverse Engineering, Additive Manufacturing, and Virtual and Augmented Reality. <br>
+The Leo 3D Anatomy application is part of the [Precise Project](https://www.preciseproject.it/). The idea originating the PRECISE project comes from the urgent need of researching, innovate, integrate and validate existing and novel 3D technologies in a new objective unified framework for enabling in the current clinical practice, patient-specific methods and tools for the training, the simulation, the intervention and the follow-up of personalized surgical approaches. Such technologies include CAD, Reverse Engineering, Additive Manufacturing, and Virtual and Augmented Reality. <br>
 The Precise application is developed to create a project, import STL files, and visualize those files as 3D images and it gives the possibility to edit and interact with these images through specialized tools. The application is compatible with tablets.
 
 **Related Article:** [SoftwareX - Precise: A web-based 3D visualization and manipulation application for surgical planning of tumour resection](https://www.sciencedirect.com/science/article/pii/S2352711023000948)
