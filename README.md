@@ -62,9 +62,9 @@ The application is divided into two parts, the client and the server. it is writ
 
 ### Setup
 
-[Frontend README](https://github.com/AngyDev/custom-3D/tree/main/client/README.md)
+[Frontend README](https://github.com/Leo-3D-Anatomy/Leo-3D-Anatomy/blob/main/client/README.md)
 
-[Backend README](https://github.com/AngyDev/custom-3D/tree/main/server/README.md)
+[Backend README](https://github.com/Leo-3D-Anatomy/Leo-3D-Anatomy/blob/main/server/README.md)
 
 To run client and server together use the following commands:
 - Add the `.env` file in server and client folder
